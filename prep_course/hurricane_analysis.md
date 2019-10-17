@@ -1,5 +1,4 @@
 Hurricane Analysis
-Thinkful Data Science prep course project
 
 Category 5, the strongest hurricane classification, defined by sustained wind speeds equal to or greater than 252 km/h.  That is strong enough to blow over most types of buildings located within a few miles of the coast.  In 1998, Hurricane Mitch, a Category 5 hurricane, swept through Central America, the Yucatan Peninsula and South Florida, leaving in its trali a death toll reaching upwards of 19,000 people.  Recent changes in climate are indicating the potential for even stronger storms to come.  Could a 6th, or even 7th Category be added to the scale?  A Category 6 hurricane would bring sustained wind speeds in excess of 290km/h - 314km/h.  At those speeds, catastrophic failures to man-made structures are almost inevitable, regardless of the extent of the engineering.  
 
@@ -17,7 +16,7 @@ Hurricanes also appear to be moving.  The storms take place over and around the 
 The images above were produced by considering the average location of storms on each of the initial and final years of the data.  The plot might look different if we considered the location changes on each of the year in between.  As such, this might not be accurate.  In fact, when we look at the directional changes of the storms over the years, we see that they are in fact moving in all directions, without a readily apparent and consistent path.  
 
 ![Atlantic hurricane location changes on axes](https://i.ibb.co/qs1nT2N/atlantic-axes.png "Atlantic hurricane change on axes")
-![Pacific hurricane location changes on axes](https://i.ibb.co/qs1nT2N/pacific-axes.png "Pacific hurricane change on axes")
+![Pacific hurricane location changes on axes](https://i.ibb.co/fx0tMg0/pacific-axes.png "Pacific hurricane change on axes")
 	
 Deeper analysis would be required to obtain a clearer and more accurate representation of how Hurricane onset locations are changing over time.	Interestingly, and contrary to what might be assumed, the storms appear to be weakening over time.  The average wind speeds of the storms are dropping, both over the Atlantic and the Pacific. 
 	
