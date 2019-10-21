@@ -1,4 +1,5 @@
 # Hurricane Analysis
+(I don't believe in these results, this is merely an exercise)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Category 5, the strongest hurricane classification, is defined by sustained wind speeds equal to or greater than 252 km/h.  That is strong enough to blow over most types of buildings located within a few miles of the coast.  In 1998, Hurricane Mitch, a Category 5 hurricane, swept through Central America, the Yucatan Peninsula and South Florida, leaving in its trail a death toll reaching upwards of 19,000 people.  Recent changes in climate are indicating the potential for even stronger storms to come.  Could a 6th, or even 7th Category be added to the scale?  A Category 6 hurricane would bring sustained wind speeds in excess of 290km/h - 314km/h.  At those speeds, catastrophic failures to man-made structures are almost inevitable, regardless the extent of the engineering.  
 
